@@ -1,3 +1,7 @@
+#### Name: [Shakti Taneja](https://github.com/1-kane)
+  - Place: Ghaziabad, Uttar Pradesh
+  - Bio: Data Science and Finance enthusiast, also like to read fiction
+  - GitHub: [1-kane](https://github.com/1-kane_
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
